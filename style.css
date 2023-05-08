@@ -8,7 +8,7 @@ button{
      background: linear-gradient(to bottom right,rgb(226, 77, 77), rgb(66, 66, 210));
 }
 
-.textoFooter:before{
+/* .textoFooter:before{
     content: '';
     display: block;
     width: 100%;
@@ -20,6 +20,6 @@ button{
     left: 0;
 
      
-}
+} */
 
 
