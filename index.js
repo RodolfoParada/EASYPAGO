@@ -6,8 +6,9 @@ form.addEventListener('submit', function (event) {
     var interes = document.getElementById("pagarlo").value;
     var cuota = document.getElementById("cuota").value;
 
+
     let boton = document.getElementById("btn-enviar");
-    quitarBorde()
+
     console.log("pagar: " + pagar)
     console.log("interes: " + interes)
     console.log("cuota: " + cuota)
