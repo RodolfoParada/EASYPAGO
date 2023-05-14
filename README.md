@@ -1,6 +1,6 @@
 # EASYPAGO
 
-es un ejercicio que falta incorporar javascript
+es un ejercicio de cálculo de interés
 
 ## el ejercicio
 
