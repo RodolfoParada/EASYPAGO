@@ -6,14 +6,15 @@ form.addEventListener('submit', function (event) {
     var interes = document.getElementById("pagarlo").value;
     var cuota = document.getElementById("cuota").value;
 
-    var mensaje = document.getElementById("mensaje").value;
     let boton = document.getElementById("btn-enviar");
-
+    quitarBorde()
     console.log("pagar: " + pagar)
     console.log("interes: " + interes)
     console.log("cuota: " + cuota)
 
-    boton.addEventListener("click", function () {});
+    boton.addEventListener("click", function () {
+
+    });
 
 
     if (pagar >= 0 && interes <= 100 && cuota < 100)

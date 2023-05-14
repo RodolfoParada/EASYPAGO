@@ -8,6 +8,10 @@ button{
      background: linear-gradient(to bottom right,rgb(226, 77, 77), rgb(66, 66, 210));
 }
 
+input{
+    border:none;
+}
+
 /* .textoFooter:before{
     content: '';
     display: block;
